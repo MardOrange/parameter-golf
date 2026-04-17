@@ -9,3 +9,11 @@ data/docs_selected.jsonl
 .mypy_cache/
 .venv
 logs/
+
+# --- MardOrange personal work (private until explicitly published) ---
+experiments/
+runs/
+PROGRESS.md
+TODO.md
+.claude/
+.vscode/
