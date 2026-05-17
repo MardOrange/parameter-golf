@@ -10,10 +10,7 @@ data/docs_selected.jsonl
 .venv
 logs/
 
-# --- MardOrange personal work (private until explicitly published) ---
-experiments/
-runs/
-PROGRESS.md
+# --- MardOrange personal (kept private) ---
 TODO.md
 .claude/
 .vscode/
